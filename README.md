@@ -5,11 +5,11 @@ We used 8 features for diabetes prediction these are  number of
 to predict. Data sets were collected from Pima Indian Diabetes Dataset.
 
 ### Used Tools: 
-	#### Python.
-	#### Numpy.
-	#### Panda. 
-	#### Conda.
-	#### Matplotlib.
-	#### Jupyter Notebook.
+#### Python.
+#### Numpy.
+#### Panda. 
+#### Conda.
+#### Matplotlib.
+#### Jupyter Notebook.
 
 
